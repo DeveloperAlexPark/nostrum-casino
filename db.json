@@ -1,0 +1,56 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "The service department"
+    },
+    {
+      "id": 2,
+      "name": "The supply chain management department"
+    },
+    {
+      "id": 3,
+      "name": "The production and quality assurance departments"
+    },
+    {
+      "id": 4,
+      "name": "The finance department"
+    },
+    {
+      "id": 5,
+      "name": "The information technology department"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Alex",
+      "lastName": "Park",
+      "departmentId": "5"
+    },
+    {
+      "id": 2,
+      "firstName": "Jonas",
+      "lastName": "Conley",
+      "departmentId": "1"
+    },
+    {
+      "id": 3,
+      "firstName": "Paul",
+      "lastName": "Hudson",
+      "departmentId": "2"
+    },
+    {
+      "id": 4,
+      "firstName": "Phoebe",
+      "lastName": "Grant",
+      "departmentId": "3"
+    },
+    {
+      "id": 5,
+      "firstName": "Ashlie",
+      "lastName": "Lester",
+      "departmentId": "4"
+    }
+  ]
+}
